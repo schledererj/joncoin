@@ -1,4 +1,4 @@
-# JonCoin Core [JON, J]
+# JonCoin Core [JON, ĵ]
 =======================
 
 ## What is JonCoin?
